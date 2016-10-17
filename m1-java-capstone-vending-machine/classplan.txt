@@ -1,0 +1,71 @@
+VendingMachine class
+ArrayList ItemList
+constructor(F file_Location)
+{
+while(line)
+{
+itemList.add(new Item(name, slot, price, stock))
+
+}
+}
+void displayStock()
+boolean purchase(Transaction)
+{
+
+}
+void printSalesReport()
+
+
+
+
+
+Item class
+Item(slot, name, price)
+String Name, String Slot, double price, int stock
+
+
+
+Transaction
+int balance
+String[] sales
+void printTransaction()
+void finishTranscation()
+{
+print change dispensed to final line
+and to user
+print out to transaction log file
+}
+
+
+
+Main VendingMachineRunner class
+{
+while()
+{}
+
+if(userinput == 1)
+display
+
+if(userinput 2)
+{
+Transaction currentTransaction = new Transaction()
+
+}
+
+}
+
+
+Date and time getter
+
+Tests:
+
+Make sure price conversion in File read in works
+
+purchase
+
+
+todo
+
+Implement hashmap
+finish tests
+Daily sales log

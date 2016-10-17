@@ -1,0 +1,4 @@
+DateTime            | Product | Slot | AmountAccepted | Balance
+09-30-2016 02:10 PM | Heavy | C4   | $5 | $3.5
+09-30-2016 02:11 PM | Moonpie | B1   | $3.5 | $2
+09-30-2016 02:11 PM | ChangeTendered | N/A | $2 | 0.00
